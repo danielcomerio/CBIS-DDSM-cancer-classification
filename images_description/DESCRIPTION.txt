@@ -1,0 +1,3 @@
+Essa pasta contém a descrição de cada uma das imagens.
+
+Sua divisão consiste apenas em TESTE e TREINO, subdivididas em CALC e MASS.
